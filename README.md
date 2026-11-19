@@ -3,8 +3,7 @@
 Trabalho 07: Modelagem e Avaliação de Desempenho com Redes de Petri Estocásticas (SPN).
 Contexto escolhido: **Servidor Web** (fila de capacidade limitada com vários núcleos de processamento).
 
-- Artigo (PDF, formato IEEE, 6 páginas): *a adicionar*
-- Vídeo de apresentação (5 min): *a adicionar*
+- Vídeo de apresentação: https://youtu.be/0EaclaEFVNc
 
 ## Conteúdo
 
